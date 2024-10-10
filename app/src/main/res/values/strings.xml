@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TechGather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">UpComing</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="gambar">gambar</string>
+    <string name="event_image">event image</string>
+
+    <string name="searchbar_hint">Search Here</string>
+    <string name="welomce_techgather_event">Welcome TechGather Event</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="register_now">Register Now</string>
+    <string name="teachgather_event_upcomming">TeachGather Event Upcomming</string>
+    <string name="recomendation_event_for_you">Recomendation Event for you!</string>
+    <string name="home_bottom">Home</string>
+    <string name="upcoming_bottom">UpComing</string>
+    <string name="finished_bottom">Finished</string>
+    <string name="favorite_bottom">Favorite</string>
+    <string name="setting_bottom">Setting</string>
+
+    <string name="remaining_quota_label">Sisa Kuota: %1$d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite_text">Favorite Events</string>
+    <string name="daily">Daily Reminder</string>
+    <string name="enable_daily">Enable Notification</string>
+</resources>

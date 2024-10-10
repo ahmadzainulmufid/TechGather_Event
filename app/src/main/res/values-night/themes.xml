@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TechGather" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item> <!-- Removes extra overlay -->
+        <item name="android:padding">0dp</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
